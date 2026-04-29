@@ -12,3 +12,5 @@
     "netlify-cli": "latest"
   }
 }
+npm run build
+ls -la
